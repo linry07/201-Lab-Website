@@ -1,6 +1,6 @@
 ---
 Ryan's Personal Website
---
+---
 
 ## About the Site
 I am currently learning and experimenting with pages on GitHub, and I am trying to make my first website. I'm currently taking EECS 201, 203, and 245.
