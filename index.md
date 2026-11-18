@@ -1,5 +1,5 @@
 ---
-Ryan's Personal Website
+title: Ryan's Personal Website
 ---
 
 ## About the Site
